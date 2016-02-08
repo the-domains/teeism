@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[teeism]]></title>
         <description><![CDATA[teeism]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/teeism/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 04:27:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 04:30:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/teeism/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is a test post]]></title>
-            <description><![CDATA[<h1>This is a test post</h1>]]></description>
-            <link>undefinedthis-is-a-test-post/index.html</link>
+            <description><![CDATA[<article><h1>This is a test post</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3a4d9c51fae91d47fce6bb6d6e082c7bb7184e2.png"></article>]]></description>
+            <link>https://thegrid.ai/teeism/this-is-a-test-post/index.html</link>
             <guid isPermaLink="false">80532e43-d763-4241-a642-8229446c34f8</guid>
-            <pubDate>Mon, 08 Feb 2016 04:26:55 GMT</pubDate>
+            <pubDate>Mon, 08 Feb 2016 04:30:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
