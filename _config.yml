@@ -1,14 +1,26 @@
 layout_spectrum: 0.8297873
-typography_spectrum: 0.2964195
+name: teeism
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.4771144
   brandStrength: 0.7364776
-  saturation: 0.4318199
-  rhythmicContrast: 0.110447
+  lightness: 0.6404255
+  saturation: 0.1808511
+  rhythmicContrast: 0.1212766
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-name: teeism
+typography_spectrum: 0.4468085
