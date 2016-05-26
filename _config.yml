@@ -1,5 +1,7 @@
-layout_spectrum: 0.8297873
 name: teeism
+favicon: null
+layout_spectrum: 0.8297873
+typography_spectrum: 0.4468085
 collections:
   - index:
       navigable: true
@@ -12,15 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.7364776
-  lightness: 0.6404255
-  saturation: 0.1808511
-  rhythmicContrast: 0.1212766
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-typography_spectrum: 0.4468085
+    - '#eaebed'
+    - '#8b8b8d'
+    - '#5d5d5f'
+    - '#aaaaac'
+    - '#000000'
+  brandStrength: 0.5625
+  lightness: 0.8125
+  saturation: 0.4375
+  rhythmicContrast: 0.25
+purpose: []
