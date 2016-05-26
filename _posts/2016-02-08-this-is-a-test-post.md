@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: This is a test post
-datePublished: '2016-05-26T20:52:47.690Z'
-dateModified: '2016-05-26T20:47:17.518Z'
+datePublished: '2016-05-26T20:54:50.024Z'
+dateModified: '2016-05-26T20:52:56.182Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-08-this-is-a-test-post.md
